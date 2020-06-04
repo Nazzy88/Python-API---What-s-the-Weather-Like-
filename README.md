@@ -61,3 +61,10 @@ Now let's use your skills in working with weather data to plan future vacations.
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
   ![hotel map](Images/hotel_map.png)
+  
+  ### Observations
+  
+ *   After collecting weather data from 549 random cities around the world using the OpenWeatherMap API, which was collected  in May 2019. The data showed collected was maximum temperature 42.78 C (108.86 F), humidity (%), cloudiness (%) and wind speed (in mph) with the corresponding city, and with respect to the geo-coordinate, Latitude. Temperatures are higher closer to the Equator (at 0° Latitude) lower in the Northern Hemisphere, at this time of year in May. This data on temperature is the result of seasons and the tilt of the Earth's axis compared to the plane of its revolution around the Sun. Throughout the year the northern and southern hemispheres are alternately turned either toward or away from the sun depending on Earth's position in its orbit. The hemisphere turned toward the sun receives more sunlight and is in summer, while the other hemisphere receives less sun and is in winter.
+*	There is a strong positive correlation between latitude and the max temperature.
+* There is small to no correlation between humidity and latitude as well as with cloudiness and latitude. A small group of cities exhibited abnormally low humidity levels in the Northern Hemisphere in the US.  
+*	Wind speeds increase in the upper and lower halves on the hemisphere, especially in the north.  There isn't a good relationship between wind speed and latitude. The difference isn't significant enough.
