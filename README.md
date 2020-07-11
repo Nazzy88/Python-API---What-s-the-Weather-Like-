@@ -46,7 +46,7 @@ Your second requirement is to run linear regression on each relationship, only t
 After each pair of plots explain what the linear regression is modeling such as any relationships you notice and any other analysis you may have.
 
 
-### Part II - VacationPy
+## Part II - VacationPy
 
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
@@ -70,7 +70,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
   ![hotel map](Images/hotel_map.png)
   
-  ### Observations
+  ## Observations
   
  *   After collecting weather data from 549 random cities around the world using the OpenWeatherMap API, which was collected  in May 2019. The data showed collected was maximum temperature 42.78 C (108.86 F), humidity (%), cloudiness (%) and wind speed (in mph) with the corresponding city, and with respect to the geo-coordinate, Latitude. Temperatures are higher closer to the Equator (at 0° Latitude) lower in the Northern Hemisphere, at this time of year in May. This data on temperature is the result of seasons and the tilt of the Earth's axis compared to the plane of its revolution around the Sun. Throughout the year the northern and southern hemispheres are alternately turned either toward or away from the sun depending on Earth's position in its orbit. The hemisphere turned toward the sun receives more sunlight and is in summer, while the other hemisphere receives less sun and is in winter.
 *	There is a strong positive correlation between latitude and the max temperature.
