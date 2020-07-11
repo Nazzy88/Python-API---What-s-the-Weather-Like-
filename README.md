@@ -1,4 +1,4 @@
-# Python-API---What-s-the-Weather-Like?
+# Python API What's the Weather Like?
 Python, APIs, JSON traversals, Heat Map, and Geocode
 
 ## Background
@@ -10,6 +10,14 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
+
+## Technologies
+* API
+* Matplotlib
+* Pandas
+* Python
+* gmaps
+* Scipy
 
 ## Part I - WeatherPy
 
